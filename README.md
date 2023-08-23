@@ -17,7 +17,7 @@
 ![Next Word Prediction](nextwordprediction.png "Next Word Prediction")
 
 # Summarization
-![Summarization](summarization.png "Summarization")
+![Summarization](summary.png "Summarization")
 
 # IdeaBot
 ![IdeaBot](ideabot.png "IdeaBot")
